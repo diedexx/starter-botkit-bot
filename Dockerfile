@@ -1,1 +1,1 @@
-FROM node:6.9-onbuild
+FROM node:7.0-onbuild
